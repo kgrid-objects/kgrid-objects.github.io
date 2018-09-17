@@ -1,1 +1,1 @@
-# Weclome to KGgrid Objects
+# Welcome to KGgrid Objects
