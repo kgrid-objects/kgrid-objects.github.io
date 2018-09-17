@@ -2,9 +2,9 @@
 
 ### Sample Knowledge Objects 
 The [Example KO](https://github.com/kgrid-objects/example-kos) repository contains a collection of KGrid Knowledge Objects that demonstrate features of the grid, good development practices and useful tools. 
-* [Hello World](https://github.com/kgrid-objects/example-kos/hello-world) - Simple KO designed as a starting point. Demostrates a project structure the includes unit testing and scripts to package the KO deposit.
-* [BMI Calculator](https://github.com/kgrid-objects/example-kos/ri-bmicalc) -  Simple KO designed to calculate BMI based on height and weight.  Demostrates passing mulitple attributes. 
-* [Minimum Viable](https://github.com/kgrid-objects/example-kos/mvo-kgrid) -  Simple KO designed demostrate the smallest amount of information needed to get KO
+* Hello World - Simple KO designed as a starting point. Demostrates a project structure the includes unit testing and scripts to package the KO deposit.
+* BMI Calculator -  Simple KO designed to calculate BMI based on height and weight.  Demostrates passing mulitple attributes. 
+* Minimum Viable -  Simple KO designed to demostrate the smallest amount of information needed to get KO started
 
 ### Working Knowledge Object Collections
 These are Knowledge Objects currently under development
