@@ -16,6 +16,4 @@ of KOs for KGrid that can be used to identify and report on certain features of 
 predictive models and risk score interpretations
 * [Opioid Collection](https://github.com/kgrid-objects/mopen-opioid-collection) - This is a collection 
 of KOs for KGrid that can be used to identify and report on certain features of opioid prescribing
-* [CPIC Objects](https://github.com/kgrid-objects/cpic-objects) - This is a collection 
-of KOs for KGrid that can be used to identify and report on certain features of opioid prescribing
-
+* [CPIC Objects](https://github.com/kgrid-objects/cpic-objects) - This is a collection of KGrid Knowledge objects that focus on dosing guidelines as provided by the CPIC pharmacogenomic guidelines. 
