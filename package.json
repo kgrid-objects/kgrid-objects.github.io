@@ -1,7 +1,7 @@
 {
-  "name": "Cancer-Advisor",
+  "name": "KGrid-Objects",
   "version": "1.0.0",
-  "description": "KGrid Cancer Advisor Demo App",
+  "description": "KGrid Objects Homepage",
   "main": " ",
   "scripts": {
     "docs:dev": "vuepress dev docs",

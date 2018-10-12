@@ -1,7 +1,7 @@
 ---
 title: Example Collection
 date: 2018-10-01
-icon: /images/kgrid-logo.png
+icon: /images/logo.png
 description:
     Example Collection demonstrate features of the grid, good development practices and useful tools.
 guideurl: https://kgrid-objects.github.io/cancer-advisor
