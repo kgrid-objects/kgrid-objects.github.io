@@ -203,6 +203,7 @@ $codeLang = js ts html md vue css sass scss less stylus go java c sh yaml py
         margin-top 0
         padding-top 1rem
         position relative
+        margin-left 0
         h1
           font-size 1.4rem
         h1, .description, .action
