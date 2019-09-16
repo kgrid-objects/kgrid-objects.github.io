@@ -1,5 +1,5 @@
 import { library } from '@fortawesome/fontawesome-svg-core'
-import { faCoffee, faCheckSquare, faListAlt, faStethoscope, faFileAlt, faPrescription } from '@fortawesome/free-solid-svg-icons'
+import { faCoffee, faCheckSquare, faDna, faListAlt, faStethoscope, faFileAlt, faPrescription, faList } from '@fortawesome/free-solid-svg-icons'
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 
 export default ({
@@ -8,6 +8,6 @@ export default ({
   router, // the router instance for the app
   siteData // site metadata
 }) => {
-  library.add(faCoffee, faCheckSquare, faListAlt, faStethoscope , faFileAlt, faPrescription)
+  library.add(faCoffee, faCheckSquare, faListAlt, faDna, faStethoscope , faFileAlt, faList, faPrescription)
   Vue.component('font-awesome-icon', FontAwesomeIcon)
 }
