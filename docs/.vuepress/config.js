@@ -1,6 +1,6 @@
 module.exports = {
   base: '/',
-  title: 'KO Collections',
+  title: 'Knowledge Object Collections',
   themeConfig: {
     lastUpdated: 'Last Updated',
     nav: [

@@ -1,8 +1,8 @@
 ---
 title: Post PCI Collection
-icon: /images/pci.jpg
+fa: heartbeat
 date: 2018-10-09
-description: Post PCI demonstrates the risk score calculation and visualization. (SMART Sandbox integrated)
+description: Post PCI demonstrates the risk score calculation and visualization.
 guideurl: https://kgrid-objects.github.io/postpci
 
 ---
