@@ -16,11 +16,11 @@
   "author": "KGrid Team",
   "license": "MIT",
   "devDependencies": {
-    "vuepress": "^1.5.2"
+    "vuepress": "^1.8.2"
   },
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^1.2.30",
-    "@fortawesome/free-solid-svg-icons": "^5.14.0",
+    "@fortawesome/fontawesome-svg-core": "^1.2.34",
+    "@fortawesome/free-solid-svg-icons": "^5.15.2",
     "@fortawesome/vue-fontawesome": "^0.1.10",
     "scripty": "^1.8.0"
   }
